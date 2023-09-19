@@ -85,7 +85,4 @@ zeros_arr = np.zeros(5)
 ones_arr = np.ones(5)
 
 
-
-Resources for Further Learning
-
-A Video is attached with below:
+"If you're interested in learning more about NumPy or have any questions, feel free to connect with me here on LinkedIn. Let's explore the world of NumPy together! I may not have years of experience, but I'm passionate about learning and ready to help in any way I can."
